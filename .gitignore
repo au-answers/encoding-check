@@ -1,0 +1,7 @@
+# Files ignored by Git version control system:
+
+# PyCharm IDE configuration:
+.idea/
+
+# Compiled Python object code:
+*.py[co]
